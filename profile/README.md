@@ -1,4 +1,4 @@
-# ![Web3Shield Banner](https://raw.githubusercontent.com/Web3Shield/.github/master/assets/ProfilePicture.png)
+# ![Web3Shield Banner](https://raw.githubusercontent.com/Web3Shield/.github/master/assets/CoverImage.png)
 
 ## Introduction
 
